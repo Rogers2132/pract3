@@ -1,0 +1,79 @@
+
+h1 {
+    display: none;
+}
+h2 {
+    font-size: 12px;
+    font-weight: 100;
+    
+}
+h3 {
+    margin-top: 16px; 
+}
+.text1 {
+    display: block;
+    margin-bottom: 0; 
+    
+}
+.second {
+    display: none;
+}
+.first {
+    position: absolute;
+    right: 15%;
+    display: block;
+}
+.imgur {
+    display: none;
+}
+
+h5 {
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    padding-top: 130px;
+    font-weight: 100;
+    word-spacing: 10px;
+}
+.texts {
+    transform: translate(-62%, -170%);
+    top: 50%;
+    left: 50%;
+ 
+    width: 700px;
+    height: 160px;
+}
+
+p {
+    text-align: center;
+}
+.text1 {
+    display: block; 
+}
+
+.text2 {
+    display: none;  
+}
+
+.emblem {
+    align-items: center;
+    position: absolute;
+    top: 40%;
+    left: 37%;
+    transform: translate(-50%, 140%); 
+}
+
+.logo {
+    display: none;
+}
+
+item {
+    display: none;
+}
+header {
+    width: 100%;
+    display: flex;
+    justify-content:right;
+    margin-right: 0;
+    align-items:end ;
+}
